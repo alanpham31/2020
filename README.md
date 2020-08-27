@@ -16,7 +16,7 @@ __this is also bold__
 
 _hehe i did *both* **can you?**_
 
-! [hello world] (/downloads/external-content.duckduckgo.com)
+![hello world] (/downloads/external-content.duckduckgo.com)
 Format: [alt text] (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fzecueq-mo4M%2Fmaxresdefault.jpg&f=1&nofb=1)
 
 As Mr. Murdock said:
