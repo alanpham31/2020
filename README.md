@@ -25,3 +25,11 @@ As Mr. Murdock said:
 as he showed the rock climbing video that lasted 2 mins for 4 classes on the first day of school
 
 Here is how to write an `*italic*`
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
