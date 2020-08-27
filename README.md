@@ -6,6 +6,7 @@
 * list 2 
   * list 2a
   * list 2b
+  
 *this is an italic*
 
 _this is also italic_
