@@ -23,4 +23,4 @@ As Mr. Murdock said:
 
 as he showed the rock climbing video that lasted 2 mins for 4 classes on the first day of school
 
-This is a link `<https://guides.github.com/activities/hello-world/>`
+Here is how to write an `*italic*`
