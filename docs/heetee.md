@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ALAN PHAM's Portfolio
 
 ![Typing Test](https://raw.githubusercontent.com/alanpham31/2020/master/images/Annotation%202020-08-31%20185953.png)
 
