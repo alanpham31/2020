@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Typing Test](https://raw.githubusercontent.com/alanpham31/2020/master/Annotation%202020-08-27%20090122.png)
+![Typing Test](https://raw.githubusercontent.com/alanpham31/2020/master/images/Annotation%202020-08-31%20185953.png)
 
 You can use the [editor on GitHub](https://github.com/alanpham31/2020/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
