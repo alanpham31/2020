@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Typing Test](https://raw.githubusercontent.com/alanpham31/2020/master/Annotation%202020-08-27%20090122.png)
+
 You can use the [editor on GitHub](https://github.com/alanpham31/2020/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
