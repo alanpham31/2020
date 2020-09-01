@@ -1,4 +1,7 @@
 # hello-world
+
+![Typing Test](https://github.com/alanpham31/hello-world/blob/gh-pages/images/Annotation%202020-08-31%20185953.png?raw=true)
+
 ## i am testing out how to use GitHub
 ### the class that i am taking is Computer Programming 1
 * list 1
